@@ -1,5 +1,5 @@
-Hi there, i am Pablo Lara
+Hi there, i am Pablo Lara,FrontEnd Developer.
 
 - 🔭 I’m currently working on: HTML,CSS AND JS
-- 🌱 I’m currently learning: C#
-contact me: larapablo@gmail.com
+- 🌱 I’m currently learning: angular
+contact me: larapablo748@gmail.com
