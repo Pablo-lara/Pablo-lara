@@ -1,6 +1,6 @@
 ## Oi, Sou o Pablo Vinicius Lara, sou um desenvolvedor.
 
-- 🔭 Estou atualmente trabalhando com: Front-end;
+- 🔭 Estou atualmente buscando trabalhar com: Front-end e Back-end;
 - 📚 Cursando faculdade de Analise e Desenvolvimento de Sistemas;
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
