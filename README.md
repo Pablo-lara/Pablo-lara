@@ -1,11 +1,11 @@
-## Oi, Sou o Pablo Vinicius Lara, sou um desenvolvedor.
+## Oi, Sou o Pablo Vinicius Lara, sou um desenvolvedor back-end.
 
 - 🔭 Estou atualmente buscando trabalhar com Back-end utilizando C# junto de .NET;
 - 📚 Cursando faculdade de Analise e Desenvolvimento de Sistemas;
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pablo-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Pablo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Pablo-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Pablo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pablo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
