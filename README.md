@@ -1,18 +1,26 @@
-## Oi, Sou o Pablo Vinicius Lara, sou um desenvolvedor back-end.
+# 👋 Olá, eu sou o Pablo Vinicius Lara
 
-- 🔭 Estou atualmente buscando trabalhar com Back-end utilizando C# junto de .NET;
-- 📚 Cursando faculdade de Analise e Desenvolvimento de Sistemas;
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Pablo-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Pablo-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Pablo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pablo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+Desenvolvedor back-end focado em C# e .NET, com experiência prática no desenvolvimento de APIs REST e aplicações voltadas para manipulação e integração de dados.
 
-##
+Atualmente curso Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos próprios com foco em boas práticas, como organização em camadas, separação de responsabilidades e versionamento com Git.
 
-<div>
-  <a href = "mailto:larapablo748@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-vinicius-lara-566278231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🚀 Tecnologias e Ferramentas
+- C#
+- .NET
+- APIs REST
+- SQL Server / MySQL
+- Git / GitHub
+- JavaScript
+- Node.js
+
+## 📌 Projetos em destaque
+- API de Dados Financeiros
+- Aplicação de Web Scraping para coleta de dados
+- Comparador de preços de delivery
+
+## 🎯 Objetivo
+Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com o time.
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/pablo-vinicius-lara/
+- Email: larapablo748@gmail.com
