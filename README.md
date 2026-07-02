@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pablo Vinicius Lara
 
-Desenvolvedor back-end focado em C# e .NET, com experiência prática no desenvolvimento de APIs REST e aplicações voltadas para manipulação e integração de dados.
+Desenvolvedor FullStack focado em C# e .NET, com experiência prática no desenvolvimento de APIs REST e aplicações voltadas para manipulação e integração de dados.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos próprios com foco em boas práticas, como organização em camadas, separação de responsabilidades e versionamento com Git.
 
