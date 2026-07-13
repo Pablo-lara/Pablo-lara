@@ -1,26 +1,66 @@
-# 👋 Olá, eu sou o Pablo Vinicius Lara
+# Olá, eu sou o Pablo Vinicius Lara
 
-Desenvolvedor FullStack focado em C# e .NET, com experiência prática no desenvolvimento de APIs REST e aplicações voltadas para manipulação e integração de dados.
+Sou desenvolvedor com foco em Back-end e Ciência de Dados, desenvolvendo aplicações utilizando C#, .NET e Python. Tenho experiência prática na criação de APIs REST, manipulação e análise de dados, Machine Learning e aplicações com Inteligência Artificial.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos próprios com foco em boas práticas, como organização em camadas, separação de responsabilidades e versionamento com Git.
+Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos próprios voltados para boas práticas de desenvolvimento, arquitetura em camadas, integração de APIs, análise de dados e IA aplicada.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
+
+### Back-end
+
 - C#
 - .NET
-- APIs REST
-- SQL Server / MySQL
-- Git / GitHub
-- JavaScript
-- Node.js
+- ASP.NET Core Web API
+- Entity Framework
+- SQL Server
+- MySQL
+- Git e GitHub
 
-## 📌 Projetos em destaque
+### Python, Dados e IA
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Plotly
+- Seaborn
+- Streamlit
+- OpenAI API
+- FAISS
+- Machine Learning
+- Inteligência Artificial Generativa
+
+## Projetos em destaque
+
+### Desenvolvimento Back-end
+
+- API REST para gerenciamento de usuários
 - API de Dados Financeiros
-- Aplicação de Web Scraping para coleta de dados
+- Sistema de Web Scraping para coleta de dados
 - Comparador de preços de delivery
 
-## 🎯 Objetivo
-Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com o time.
+### Ciência de Dados e Inteligência Artificial
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/pablo-vinicius-lara/
-- Email: larapablo748@gmail.com
+- Sistema de Previsão de Preços de Imóveis com Machine Learning
+- Assistente Inteligente de Documentos utilizando IA Generativa
+
+## Atualmente estudando
+
+- Machine Learning
+- Inteligência Artificial Generativa
+- Engenharia de Dados
+- Desenvolvimento de aplicações com LLMs
+
+## Objetivo
+
+Busco oportunidades como Desenvolvedor Back-end (.NET/C#), Desenvolvedor Python ou na área de Ciência de Dados e Inteligência Artificial, onde eu possa aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com soluções de qualidade.
+
+## Contato
+
+**LinkedIn**
+
+- www.linkedin.com/in/pablo-vinicius-lara/
+
+**E-mail**
+
+- larapablo748@gmail.com
